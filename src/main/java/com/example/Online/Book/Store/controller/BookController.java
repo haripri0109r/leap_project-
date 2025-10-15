@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.example.Online.Book.Store.model.Book;
+import com.example.Online.Book.Store.entity.Book;
 import com.example.Online.Book.Store.service.BookService;
 
 @Controller
